@@ -180,3 +180,57 @@ nav a {
     position: relative;
     bottom: 55px;
 }
+
+.navToggle {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .nav {
+        justify-content: space-between;
+        position: relative;
+    }
+
+    .navLinks {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        z-index: 100;
+    }
+
+    .content {
+        height: auto;
+        overflow: visible;
+        padding-bottom: 50px;
+    }
+
+    body {
+        overflow-y: auto !important;
+    }
+
+    .backgroundLogo {
+        position: fixed !important;
+        z-index: -1 !important;
+        width: 150%;
+        height: 80%;
+    }
+
+    .navBurger {
+        display: block;
+        position: relative;
+        z-index: 101;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .navToggle:checked ~ .navLinks {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    
+}
