@@ -194,11 +194,12 @@ nav a {
     .navLinks {
         display: none;
         position: fixed;
-        top: 0;
+        top: 100px;
         left: 0;
         width: 100%;
-        height: 100vh;
+        height: 325px;
         z-index: 100;
+        background-color: rgba(255, 255, 255, 0.95);
     }
 
     .content {
@@ -219,10 +220,19 @@ nav a {
     }
 
     .navBurger {
-        display: block;
+        display: flex;
+        flex-direction: column;
         position: relative;
         z-index: 101;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        color: black;
+        gap: 4px;
+    }
+
+    .navBurger span {
+        display: block;
+        width: 30px;
+        height: 3px;
+        background-color: black;
     }
 
     .navToggle:checked ~ .navLinks {
