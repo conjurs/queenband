@@ -37,7 +37,7 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 [Avalik link Figmale](https://www.figma.com/design/pRHMbo5aMuxIQrs5b6CYxy/Queen?node-id=0-1&t=dK677bVhjDvJrwoB-1)
 
 ### <h1> Link rakendusele <h1>
-[Link rakendusele](https://queenband.vercel.app/)
+[Link rakendusele](https://queenband.vercel.app/) <br>
 ütlen ausalt et ei osand panna zone, ei olnud kirjas kuhu tuli panna niiet panin vercel kuna kena ja lihtne :) - Axel
 
 ### Tiimi liikmete vastused kolmele küsimusele
