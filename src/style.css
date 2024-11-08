@@ -124,7 +124,7 @@ nav a {
     align-items: center;
 }
 
-.music-1{
+.music-1 , .music-3{
     height:145px ;
     width:200px ;
 }
@@ -185,6 +185,27 @@ nav a {
     display: none;
 }
 
+.img-textm {
+    padding-top: 15px;
+
+}
+
+.album-textm {
+    visibility: hidden;
+    
+}
+
+.album-textm2 {
+    visibility: hidden;
+    
+}
+
+.album-textm3 {
+    visibility: hidden;
+    
+}
+
+
 @media screen and (max-width: 768px) {
     .nav {
         justify-content: space-between;
@@ -241,6 +262,59 @@ nav a {
         justify-content: center;
         align-items: center;
         gap: 20px;
+    }
+    
+
+    .music-img-all {
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 0px;
+    }
+
+    .Title-albums {
+        display: none;
+        
+    }
+
+    .music-3 {
+        position: relative;
+        bottom: 55px;
+    }
+
+    .img-textm {
+        position: relative;
+        bottom: 55px;
+    }
+
+    .text-music {
+        padding: 30px;
+    }
+
+    .img-text{
+        padding-bottom: 55px;
+    }
+
+    .album-textm {
+        visibility: visible;
+    }
+
+    .album-textm2{
+        position: relative;
+        bottom: 50px;
+        visibility: visible;
+    }
+
+    .album-textm3 {
+        position: relative;
+        bottom: 50px;
+        visibility: visible;
+    }
+    
+    .album-textm4 {
+        position: relative;
+        bottom: 110px;
+        visibility: visible;
     }
     
 }
