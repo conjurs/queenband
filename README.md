@@ -68,11 +68,11 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 
 #### Robin Vaga
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   - 
+   - Pigem mitte, koodi kirjutada oli päris fun
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
-   - 
+   - Suhtlemisoskus
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - 
+   - Koodi kirjutamine, Figma kasutamine, CSSi vilumine
 
 #### Kadi Antonov
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
