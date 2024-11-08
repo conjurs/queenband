@@ -84,8 +84,8 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 
 #### Carlos Leon Mikson
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   -
+   -Ei oleks.
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
-   - 
+   - Improviseerimine
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - 
+   - Figma kasutamine töö kavandamiseks.
