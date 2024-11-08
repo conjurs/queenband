@@ -18,6 +18,8 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 - Joonistasime tahvli peale raske sketchi milline võiks veebileht välja näha, ning rääkisime mõtetest
 - Alustasime Figma tegemisega ning tegime muudatusi algsele ideele
 
+[20241107](https://raw.githubusercontent.com/conjurs/queenband/refs/heads/main/assets/IMG_7229.jpg)
+
 ### <h1>Teine päev 07.11.24</h1> <br>
 - Lõpetasime figma tegemisega
 - Jagasime rollid kes teeb mis osa lehest
