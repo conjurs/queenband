@@ -263,9 +263,7 @@ nav a {
         align-items: center;
         gap: 20px;
     }
-    
-
-    .music-img-all {
+        .music-img-all {
         display:flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -317,4 +315,33 @@ nav a {
         visibility: visible;
     }
     
+    .funFactsHeader {
+        text-align: center;
+        place-self: center;
+        margin-top: 25px;
+    }
+    
+    .funFactsContainer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+    }
+    
+    .funFactsItem {
+        background-color: rgba(153, 153, 153, 0.25);
+        padding: 20px;
+    }
+     .funFactsItemTitle {
+        text-align: center;
+        align-content: center;
+        font-weight: bold;
+        font-size: 24px;
+        padding-bottom: 10px;
+     }
+    
+     .funFactsItemContent {
+        text-align: center;
+        font-size: 20px;
+     }
 }
