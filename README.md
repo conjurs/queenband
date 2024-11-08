@@ -54,11 +54,11 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 
 #### Otto Nuum
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   -
+   - Ei.
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
-   - 
+   - Juhendamis oskus.
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - 
+   - Githubi projekti haldamine
 
 #### Andre Leppik
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
