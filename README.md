@@ -60,11 +60,11 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 
 #### Andre Leppik
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   - 
+   - Oleks võinud olla võimalus ise ka mingit koodi kirjutada.
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
-   - 
+   - Juhendamis ja suhtlus oskus.
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - 
+   - Githubi branchide mergimine.
 
 #### Robin Vaga
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
