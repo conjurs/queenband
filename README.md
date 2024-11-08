@@ -74,7 +74,7 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
    - Suhtlemisoskus
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - Koodi kirjutamine, Figma kasutamine, CSSi vilumine
+   - Figma kasutamine, CSSi vilumine, mobiilivaate tegemine
 
 #### Kadi Antonov
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
