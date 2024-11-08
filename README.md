@@ -76,11 +76,11 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 
 #### Kadi Antonov
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   - 
+   - Ei, jäin ülesannetega rahule
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
-   - 
+   - Meeskonnatöö
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - 
+   - Mobiilivaate tegemine
 
 #### Carlos Leon Mikson
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
