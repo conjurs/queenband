@@ -18,6 +18,8 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 - Joonistasime tahvli peale raske sketchi milline võiks veebileht välja näha, ning rääkisime mõtetest
 - Alustasime Figma tegemisega ning tegime muudatusi algsele ideele
 
+![20241106](https://raw.githubusercontent.com/conjurs/queenband/refs/heads/main/assets/IMG_7229.jpg)
+
 ### <h1>Teine päev 07.11.24</h1> <br>
 - Lõpetasime figma tegemisega
 - Jagasime rollid kes teeb mis osa lehest
@@ -52,11 +54,11 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 
 #### Otto Nuum
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   -
+   - Ei.
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
-   - 
+   - Juhendamis oskus.
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - 
+   - Githubi projekti haldamine
 
 #### Andre Leppik
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
@@ -76,11 +78,11 @@ Luua bändi või artisti kohta käiv neljast lehest või sektsioonist koosnev ve
 
 #### Kadi Antonov
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   - 
+   - Ei, jäin ülesannetega rahule
 2. Üks pehme oskus, mida õppisin ja endas arendasin:
-   - 
+   - Meeskonnatöö
 3. Üks tehniline oskus, mida õppisin ja endas arendasin:
-   - 
+   - Mobiilivaate tegemine
 
 #### Carlos Leon Mikson
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
